@@ -7,6 +7,6 @@ class Icebreaker{
   }
 }
 
-module.exports = Icebreaker
+
 
 const Icebreaker = require(./Icebreaker.js)
