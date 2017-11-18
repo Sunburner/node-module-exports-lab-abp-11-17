@@ -7,4 +7,4 @@ class Icebreaker{
   }
 }
 
-// modules.export = Icebreaker
+module.exports = Icebreaker
