@@ -14,5 +14,4 @@ describe('Icebreaker', () => {
     expect(Question).to.be.a("function", "Question not required in Icebreaker.js")
   })
 
-
 });
