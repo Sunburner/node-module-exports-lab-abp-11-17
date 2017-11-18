@@ -16,4 +16,4 @@ describe('Icebreaker', () => {
 
 
 });
-  module.exports = IcebreakerTest.js
+
